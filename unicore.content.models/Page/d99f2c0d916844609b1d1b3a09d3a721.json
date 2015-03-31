@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Ikiwa una malaria ni muhimu kwamba utafuta matibabu mara moja. Ikiwachwa bila kutibiwa, malaria inaweza kuuwa. ", 
+  "language": "swa_UG", 
+  "title": "Jinsi ya kutibu malaria", 
+  "primary_category": "d8afdd82fcce43f09a8c0b9e78e7dcc3", 
+  "created_at": "2015-03-31T12:36:19.205935+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-03-31T12:36:19.206214+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Ikiwa unaonyesha dalili za malaria, unahitaji kutafuta usaidizi mara moja ili uhakikishe afya yako, na afya ya wale walio katika jamii yao. \r\n\r\n**Tafuta kliniki... mara moja!**\r\n\r\nHata kama huna uhakika wa dalili zako, tafuta kliniki au wasiliana na mhudumu wa afya mara moja! sio jambo la busara kusubiri, malaria ni hatari zaidi kama haitatibiwa. \r\n\r\n**Pimwa**\r\n\r\nKipimo cha Haraka cha Utambuzi (RDT) kinaweza kukupa utambuzi sahihi ndani ya dakika 15. Kliniki yako inapaswa kuwa na hizi - wakati mwingine wahudumu wa afya wa jamii wanaweza kukupima kijijini mwako!\r\n\r\n**Tibiwa**\r\n\r\nKliniki ya eneo lako au wahudumu wa afya ya jamii anapaswa kuwa na matibabu mkononi ili akusaidie ujihisi vyema. Katika hali za kawaida, malaria inaweza kutibiwa ndaniya siku chache, lakini mtoa huduma wako wa afya anajua vyema!\r\n\r\n**Tumia matibabu yako YOTE**\r\n\r\nKumbuka, ikiwa hutakamilisha matibabu yako, bado una malaria ndani yako na ni tishio kwa wale walio karibu na wewe. Mbu watakuwa bado wanaweza kupata malaria kutoka kwa mwili wako na kumwambukiza mtu anayefuata ambaye wanamuuma. Kwa hivyo, hata kama utajihisi vyema, tafadhali fikiria kuhusu familia na marafiki wako na umalize matibabu yako!\r\n", 
+  "source": "21d0651e8d0f41e0911582bd0d265e6c", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "jinsi-ya-kutibu-malaria", 
+  "uuid": "d99f2c0d916844609b1d1b3a09d3a721"
+}
