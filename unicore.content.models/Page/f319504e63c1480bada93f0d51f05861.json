@@ -6,15 +6,18 @@
   "primary_category": "d8afdd82fcce43f09a8c0b9e78e7dcc3", 
   "created_at": "2015-03-31T12:31:30+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-03-31T12:42:11.157885+00:00", 
+  "modified_at": "2015-03-31T12:47:41.744412+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "d99f2c0d916844609b1d1b3a09d3a721", 
+    "7dd13d90a0774ff59306904070e89d72"
+  ], 
   "id": null, 
   "content": "Hata kama huna malaria, inaweza kuathiri maisha ykao pakubwa. \r\n\r\n**Mtoto hufa kila dakika kutokana na malaria**\r\n\r\nWatoto 453,000 hufa kila mwaka kutokana na maradhi haya yanayoweza kuzuiwa na kutibiwa. Vifo vya malaria huathiri pakubwa familia na vinaweza kuharibu kizazi kijacho. \r\n\r\n**Huaribu elimu** \r\n\r\nHata kama mtoto ataponea malaria, huenda akalazimika kukosa siku muhimu shuleni. Katika Afrika, malaria inawajibika kwa nusu ya siku ambazo wanafunzi hawajahudhuria shule kwa maradhi ambayo yanaweza kuzuiwa.  Hali kali husababisha matatizo ya muda mrefu ya kusoma.\r\n\r\n**Huaribu uchumi**\r\n\r\nMalaria huwafanya watu wasiende kazini, kwa hivyo kuchukua mapato ya thamani kutoka kwa familia nyingi. Athariya malariakwauchumiimekadiriwa kugharimu Afrika Shilingi Trilioni 34.2 za Ugandal kila mwaka.\r\n\r\n**Inaweza kuzuiwa na kutibiwa kabisa**\r\n\r\nHasara hii yote haistahili na inaweza kuepukika. Kwa kujifunza kuhusu kinga na tiba, unaweza kusaidia kujiandaa kwa vita iliyo mbele. Jifunze kuhusu kinga ya malaria na tiba ya malaria.\r\n", 
   "source": "68f145603c1246a2ba5ede8de3d0df61", 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 3, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "kwa-nini-malaria-ni-jambo-nzito", 
   "uuid": "f319504e63c1480bada93f0d51f05861"
